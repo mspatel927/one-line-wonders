@@ -133,3 +133,8 @@ Name: [Ng Wei How](https://github.com/ngweihow)</br>
 Place: Melbourne, Australia</br>
 Coding Experience: Python, C, Java, JS, Web Dev frameworks</br>
 Email: ngweihow.r@gmail.com</br>
+
+Name: [Manish Patel](https://github.com/mspatel927)</br>
+Place: NJ, USA</br>
+Coding Experience: Python</br>
+Email: mspatel927@gmail.com</br>
